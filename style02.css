@@ -1,0 +1,335 @@
+body {
+
+background-color: black;
+
+}
+
+.logo {
+    z-index: 1;
+    position: relative;
+    top: 0px;
+    left: 640px;
+ }
+
+ body {
+    background-color: black;
+ }
+ h1 {
+    font-family: Broadway;
+    font-size: 48px;
+    color: gold;
+    position: absolute;
+    bottom: -450px;
+    left: auto;
+    right: auto;
+
+ }
+
+ #p01 {
+    color: yellow;
+    font-family: Broadway;
+    font-size: 30px;
+    position: absolute;
+    top: 115px;
+    left: 140px;
+    padding: 20px;
+    border: none;
+    text-decoration: none;
+    background: rgb(219, 252, 6);
+    border-radius: 100px;
+    color: rgb(13, 12, 12);
+    cursor: pointer;
+    transition: 150ms ease;
+ }
+ #p01:hover{
+   color: white;
+background-color: gold;
+scale: 1.2;
+ }
+
+ #p02 {
+    color: yellow;
+    font-family: Broadway;
+    font-size: 30px;
+    position: absolute;
+    top: 115px;
+    left: 390px;
+    padding: 20px;
+    border: none;
+    text-decoration: none;
+    background: rgb(219, 252, 6);
+    border-radius: 100px;
+    color: rgb(13, 12, 12);
+    cursor: pointer;
+    transition: 150ms ease;
+ }
+ #p02:hover{
+   color: white;
+background-color: gold;
+scale: 1.2;
+ }
+
+ 
+ #p03 {
+    color: yellow;
+    font-family: Broadway;
+    font-size: 30px;
+    position: absolute;
+    top: 115px;
+    left: 920px;
+    padding: 20px;
+    border: none;
+    text-decoration: none;
+    background: rgb(219, 252, 6);
+    border-radius: 100px;
+    color: rgb(13, 12, 12);
+    cursor: pointer;
+    transition: 150ms ease;
+ }
+ #p03:hover{
+   color: white;
+background-color: gold;
+scale: 1.2;
+ }
+
+ #p04 {
+    color: yellow;
+    font-family: Broadway;
+    font-size: 30px;
+    position: absolute;
+    top: 115px;
+    left: 1220px;
+    padding: 20px;
+    border: none;
+    text-decoration: none;
+    background: rgb(219, 252, 6);
+    border-radius: 100px;
+    color: rgb(13, 12, 12);
+    cursor: pointer;
+    transition: 150ms ease;
+ }
+ #p04:hover{
+   color: white;
+background-color: gold;
+scale: 1.2;
+ }
+ 
+ .rectangle {
+        width: 1510px;
+        height: 10px;
+        background-color: #FFD700;
+        font-size: 50px;
+        font-weight: bold;
+        text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6), 0 0 30px rgba(255, 255, 255, 0.4);
+        position: relative;
+        top: -110px;
+ }
+
+
+.rectangle2 {
+   width: 10px;
+   height: 1200px;
+   background-color: #FFD700;
+   font-size: 50px;
+   font-weight: bold;
+   text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6), 0 0 30px rgba(255, 255, 255, 0.4);
+   position: relative;
+   top: -200px;
+   left: 20px;
+}
+
+h2{
+   font-family: Broadway;
+    font-size: 36px;
+    color: gold;
+    position: absolute;
+    top: 180px;
+    left: 650px;
+}
+
+h4{
+   font-family: Broadway;
+    font-size: 36px;
+    color: gold;
+    position: absolute;
+    top: 230px;
+    left: 670px;
+}
+
+h5{
+   font-family: Broadway;
+    font-size: 36px;
+    color: gold;
+    position: absolute;
+    top: 230px;
+    left: 690px;
+}
+
+.fb {
+   font-family: Federo;
+   color: #1877F2;
+   font-size: 30px;
+   position: absolute;
+   top: 440px;
+   left: 680px;
+}
+
+.p001 {
+   font-family: Federo;
+   color: yellow;
+   font-size: 30px;
+   position: relative;
+   top: 40px;
+   left: 250px;
+}
+
+.fa-facebook {
+   font-size: 30px;
+   color: #1877F2;
+   position: relative;
+   top: 260px;
+   left: 430px;
+
+}
+
+.gmail {
+   font-family: Federo;
+   color: red;
+   font-size: 30px;
+   position: absolute;
+   top: 490px;
+   left: 680px;
+}
+
+.fa-square-instagram {
+   font-size: 30px;
+   color: red;
+   position: relative;
+   top: 312px;
+   left: 390px;
+}
+
+.fa-square-phone{
+   font-size: 30px;
+   color: aquamarine;
+   position: relative;
+   top: 212px;
+   left: 320px;
+}
+
+.hhh {
+   font-family: Federo;
+   font-size: 28px;
+   color: aquamarine;
+   position: absolute;
+   top: 363px;
+   left: 630px;
+}
+
+.map {
+   position: relative;
+   bottom: -260px;
+   left: 420px;
+}
+
+h3 {
+   font-family: Broadway;
+    font-size: 36px;
+    color: gold;
+    position: absolute;
+    top: 240px;
+    left: 655px;
+}
+
+.rectangle02 {
+   width: 10px;
+   height: 1000px;
+   background-color: #FFD700;
+   font-size: 50px;
+   font-weight: bold;
+   text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6), 0 0 30px rgba(255, 255, 255, 0.4);
+   position: relative;
+   top: 220px;
+   left: 80px;
+}
+
+.rectangle03 {
+   width: 10px;
+   height: 1000px;
+   background-color: #FFD700;
+   font-size: 50px;
+   font-weight: bold;
+   text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6), 0 0 30px rgba(255, 255, 255, 0.4);
+   position: relative;
+   top: -790px;
+   right: -1400px;
+}
+
+.writing {
+   font-size: 24px;
+   font-family: Federo;
+   color: yellow;
+   position: relative;
+   top: -1860px;
+   margin: 130px;
+}
+.imagine1 {
+   position: absolute;
+   top: 460px;
+   left: 60px;
+   cursor: pointer;
+   transition: 100ms ease-in;
+}
+
+.imagine1:hover{
+   scale: 1.3;
+    }
+
+.imagine2 {
+   position: absolute;
+   top: 840px;
+   left: 60px;
+   cursor: pointer;
+    transition: 100ms ease-in;
+}
+
+.imagine2:hover{
+scale: 1.3;
+ }
+
+ .video1 {
+   position: absolute;
+   top: 460px;
+   left: 580px;
+ }
+
+ .imagine3 {
+   position: absolute;
+   top: 460px;
+   right: -20px;
+   cursor: pointer;
+   transition: 100ms ease-in;
+}
+
+.imagine3:hover{
+   scale: 1.3;
+    }
+
+.imagine4 {
+      position: absolute;
+      top: 840px;
+      right: -20px;
+      cursor: pointer;
+      transition: 100ms ease-in;
+   }
+   
+.imagine4:hover{
+      scale: 1.3;
+}
+
+.video2 {
+         position: absolute;
+         top: 860px;
+         left: 580px;
+}
+

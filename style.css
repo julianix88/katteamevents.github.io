@@ -1,0 +1,175 @@
+body{
+    width: 100%;
+    height: 100vh;
+    margin: 0
+}
+
+
+.video01 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .logo {
+    z-index: 1;
+    text-align: center;
+    position: relative;
+    top: -90px;
+    left: 640px;
+ }
+
+ body {
+    background-color: black;
+ }
+
+ .gradiant {
+   font-family: Broadway;
+   font-size: 80px;
+   color: gold;
+   text-align: center;
+   position: relative;
+   top: -750px;
+   
+}
+
+.gradiant {
+   font-weight: bold;
+   color: gold;
+   position: relative;
+   cursor: pointer;
+}
+
+.gradiant::after {
+   content: 'Welcome to our world';
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   width: 100%;
+   height: 3px;
+   background-color: yellow;
+   transform: scaleX(0);
+   transform-origin: bottom right;
+   transition: transform 0.3s ease-out;
+}
+
+.gradiant:hover::after {
+   transform: scaleX(1);
+   transform-origin: bottom left;
+}
+
+#intro{
+   text-align: center;
+   font-family: Federo;
+   font-size: 30px;
+   color: #FFD700;
+   border: 5px solid;
+   padding: 20px;
+   width: 400px;
+   height: 400px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 150px;
+}
+
+ #p01 {
+    color: yellow;
+    font-family: Broadway;
+    font-size: 30px;
+    position: absolute;
+    top: 320px;
+    left: 130px;
+    padding: 20px;
+    border: none;
+    text-decoration: none;
+    background: rgb(219, 252, 6);
+    border-radius: 100px;
+    color: rgb(13, 12, 12);
+    cursor: pointer;
+    transition: 150ms ease;
+ }
+ #p01:hover{
+   color: white;
+background-color: gold;
+scale: 1.2;
+ }
+
+ #p02 {
+    color: yellow;
+    font-family: Broadway;
+    font-size: 30px;
+    position: absolute;
+    top: 320px;
+    left: 420px;
+    padding: 20px;
+    border: none;
+    text-decoration: none;
+    background: rgb(219, 252, 6);
+    border-radius: 100px;
+    color: rgb(13, 12, 12);
+    cursor: pointer;
+    transition: 150ms ease;
+ }
+ #p02:hover{
+   color: white;
+background-color: gold;
+scale: 1.2;
+ }
+ 
+ #p03 {
+    color: yellow;
+    font-family: Broadway;
+    font-size: 30px;
+    position: absolute;
+    top: 320px;
+    left: 880px;
+    padding: 20px;
+    border: none;
+    text-decoration: none;
+    background: rgb(219, 252, 6);
+    border-radius: 100px;
+    color: rgb(13, 12, 12);
+    cursor: pointer;
+    transition: 150ms ease;
+ }
+ #p03:hover{
+   color: white;
+background-color: gold;
+scale: 1.2;
+ }
+
+ #p04 {
+    color: yellow;
+    font-family: Broadway;
+    font-size: 30px;
+    position: absolute;
+    top: 320px;
+    left: 1180px;
+    padding: 20px;
+    border: none;
+    text-decoration: none;
+    background: rgb(219, 252, 6);
+    border-radius: 100px;
+    color: rgb(13, 12, 12);
+    cursor: pointer;
+    transition: 150ms ease;
+ }
+ #p04:hover{
+   color: white;
+background-color: gold;
+scale: 1.2;
+ }
+ 
+ .rectangle {
+        width: 1510px;
+        height: 10px;
+        background-color: #FFD700;
+        font-size: 50px;
+        font-weight: bold;
+        text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6), 0 0 30px rgba(255, 255, 255, 0.4);
+        position: relative;
+        top: -200px;
+      
+}
+
+
